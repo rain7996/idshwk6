@@ -1,0 +1,607 @@
+date:
+    当前日期: 2020/04/30 周四
+time:
+    当前时间: 10:23:51.04
+OS version:
+    OS 名称:          Microsoft Windows 10 教育版
+    OS 版本:          10.0.17763 暂缺 Build 17763
+    OS 制造商:        Microsoft Corporation
+    OS 配置:          独立工作站
+    OS 构件类型:      Multiprocessor Free
+hardware:
+    物理内存总量:     8,067 MB
+    可用的物理内存:   3,945 MB
+    虚拟内存: 最大值: 11,523 MB
+    虚拟内存: 可用:   5,615 MB
+    虚拟内存: 使用中: 5,908 MB
+    Capacity    DeviceLocator   MemoryType  Name      Tag                TotalWidth
+8589934592  ChannelA-DIMM0  0           物理内存  Physical Memory 0  64
+    Access  Availability  BlockSize  Caption  Compressed  ConfigManagerErrorCode  ConfigManagerUserConfig  CreationClassName  Description   DeviceID  DriveType  ErrorCleared  ErrorDescription  ErrorMethodology  FileSystem  FreeSpace     InstallDate  LastErrorCode  MaximumComponentLength  MediaType  Name  NumberOfBlocks  PNPDeviceID  PowerManagementCapabilities  PowerManagementSupported  ProviderName  Purpose  QuotasDisabled  QuotasIncomplete  QuotasRebuilding  Size          Status  StatusInfo  SupportsDiskQuotas  SupportsFileBasedCompression  SystemCreationClassName  SystemName  VolumeDirty  VolumeName  VolumeSerialNumber
+0                                C:       FALSE                                                        Win32_LogicalDisk  本地固定磁盘  C:        3                                                            NTFS        39602708480                               255                     12         C:                                                                                                                                                                   127585816576                      FALSE               TRUE                          Win32_ComputerSystem     MMY                                  F0CCCFD1
+0                                D:       FALSE                                                        Win32_LogicalDisk  本地固定磁盘  D:        3                                                            NTFS        233307381760                              255                     12         D:                                                                                                                                                                   314572795904                      FALSE               TRUE                          Win32_ComputerSystem     MMY                      documents   5C3241D0
+0                                E:       FALSE                                                        Win32_LogicalDisk  本地固定磁盘  E:        3                                                            NTFS        323983081472                              255                     12         E:                                                                                                                                                                   588861489152                      FALSE               TRUE                          Win32_ComputerSystem     MMY                      Downloads   5443142E
+0                                F:       FALSE                                                        Win32_LogicalDisk  本地固定磁盘  F:        3                                                            NTFS        73019596800                               255                     12         F:                                                                                                                                                                   96635310080                       FALSE               TRUE                          Win32_ComputerSystem     MMY                      ubantu      0B6D1615
+    AddressWidth  Architecture  AssetTag                Availability  Caption                                Characteristics  ConfigManagerErrorCode  ConfigManagerUserConfig  CpuStatus  CreationClassName  CurrentClockSpeed  CurrentVoltage  DataWidth  Description                            DeviceID  ErrorCleared  ErrorDescription  ExtClock  Family  InstallDate  L2CacheSize  L2CacheSpeed  L3CacheSize  L3CacheSpeed  LastErrorCode  Level  LoadPercentage  Manufacturer  MaxClockSpeed  Name                                       NumberOfCores  NumberOfEnabledCore  NumberOfLogicalProcessors  OtherFamilyDescription  PartNumber              PNPDeviceID  PowerManagementCapabilities  PowerManagementSupported  ProcessorId       ProcessorType  Revision  Role  SecondLevelAddressTranslationExtensions  SerialNumber            SocketDesignation  Status  StatusInfo  Stepping  SystemCreationClassName  SystemName  ThreadCount  UniqueId  UpgradeMethod  Version  VirtualizationFirmwareEnabled  VMMonitorModeExtensions  VoltageCaps
+64            9             To Be Filled By O.E.M.  3             Intel64 Family 6 Model 158 Stepping 9  252                                                               1          Win32_Processor    2800               9               64         Intel64 Family 6 Model 158 Stepping 9  CPU0                                      100       198                  1024                       6144         0                            6      10              GenuineIntel  2801           Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz  4              4                    8                                                  To Be Filled By O.E.M.                                            FALSE                     BFEBFBFF000906E9  3                        CPU   TRUE                                     To Be Filled By O.E.M.  U3E1               OK      3                     Win32_ComputerSystem     MMY         8                      1                       TRUE                           TRUE
+    BiosCharacteristics                                                          BIOSVersion                                            BuildNumber  Caption   CodeSet  CurrentLanguage    Description  EmbeddedControllerMajorVersion  EmbeddedControllerMinorVersion  IdentificationCode  InstallableLanguages  InstallDate  LanguageEdition  ListOfLanguages                                                                                                                                                       Manufacturer  Name      OtherTargetOS  PrimaryBIOS  ReleaseDate                SerialNumber  SMBIOSBIOSVersion  SMBIOSMajorVersion  SMBIOSMinorVersion  SMBIOSPresent  SoftwareElementID  SoftwareElementState  Status  SystemBiosMajorVersion  SystemBiosMinorVersion  TargetOperatingSystem  Version
+{7, 11, 12, 15, 16, 19, 20, 21, 22, 23, 24, 25, 27, 30, 32, 33, 40, 42, 43}  {"LENOVO - 1", "4KCN28WW", "INSYDE Corp. - 56341028"}               4KCN28WW           en|US|iso8859-1,0  4KCN28WW     1                               28                                                  8                                                   {"en|US|iso8859-1,0", "fr|FR|iso8859-1,0", "zh|TW|unicode,0", "ja|JP|unicode,0", "it|IT|iso8859-1,0", "es|ES|iso8859-1,0", "de|DE|iso8859-1,0", "pt|PT|iso8859-1,0"}  LENOVO        4KCN28WW                 TRUE         20170518000000.000000+000  PF0V3TA0      4KCN28WW           3                   0                   TRUE           4KCN28WW           3                     OK      1                       28                      0                      LENOVO - 1
+up time:
+    系统启动时间:     2020/4/30, 10:12:43
+services information:
+    "HKLM\SYSTEM\CurrentControlSet\Control\SafeBoot\AlternateShell"	""	""	""	"2018/9/15 15:34"	""
+    + "cmd.exe"	"Windows 命令处理程序"	"(Verified) Microsoft Windows"	"c:\windows\system32\cmd.exe"	"1975/11/21 4:18"	""
+    "HKLM\SOFTWARE\Microsoft\Windows\CurrentVersion\Run"	""	""	""	"2020/4/22 0:05"	""
+    + "DAX2_APP"	"DolbyDAX2TrayIcon"	"(Verified) Dolby Laboratories, Inc."	"c:\program files\dolby\dolby dax2\dax2_app\dolbydax2trayicon.exe"	"2017/3/7 17:54"	""
+    + "NerveCenterTray"	"Lenovo Nerve Center托盘程序 - 是联想专门为提升用户游戏体验独家定制的软件"	"(Verified) LENOVO"	"c:\program files\lenovo\nerve center\bin\x64\lenovonervecentertray.exe"	"2017/9/29 14:25"	""
+    "HKLM\SOFTWARE\Wow6432Node\Microsoft\Windows\CurrentVersion\Run"	""	""	""	"2020/4/30 10:19"	""
+    + "360Safetray"	"360安全卫士 安全防护中心模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\safemon\360tray.exe"	"2020/4/9 19:30"	""
+    + "vmware-tray.exe"	"VMware Tray Process"	"(Verified) VMware, Inc."	"c:\program files (x86)\vmware\vmware workstation\vmware-tray.exe"	"2019/11/5 12:11"	""
+    "HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run"	""	""	""	"2020/4/10 17:38"	""
+    + "360sd"	"360杀毒 启动程序"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\program files\360\360sd\360sdrun.exe"	"2018/9/14 12:11"	""
+    + "Steam"	"Steam Client Bootstrapper"	"(Verified) Valve"	"e:\steam\steam.exe"	"2020/4/4 8:38"	""
+    "HKLM\SOFTWARE\Microsoft\Active Setup\Installed Components"	""	""	""	"2019/10/8 17:05"	""
+    + "n/a"	"Microsoft .NET IE SECURITY REGISTRATION"	"(Verified) Microsoft Corporation"	"c:\windows\system32\mscories.dll"	"2018/8/8 11:18"	""
+    "HKLM\SOFTWARE\Wow6432Node\Microsoft\Active Setup\Installed Components"	""	""	""	"2019/10/8 17:05"	""
+    + "Google Chrome"	"Google Chrome Installer"	"(Verified) Google Inc"	"c:\program files (x86)\google\chrome\application\62.0.3202.94\installer\chrmstp.exe"	"2017/11/10 16:14"	""
+    + "n/a"	"Microsoft .NET IE SECURITY REGISTRATION"	"(Verified) Microsoft Corporation"	"c:\windows\syswow64\mscories.dll"	"2018/8/8 11:28"	""
+    "HKLM\SOFTWARE\Classes\Protocols\Filter"	""	""	""	"2020/4/8 18:19"	""
+    + "text/xml"	"Microsoft Office XML MIME Filter"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\vfs\programfilescommonx64\microsoft shared\office16\msoxmlmf.dll"	"2019/12/8 9:31"	""
+    "HKLM\Software\Classes\*\ShellEx\ContextMenuHandlers"	""	""	""	"2020/3/11 8:47"	""
+    + "AXmpLite"	"ShlExt Module"	"(Verified) SHENZHEN THUNDER NETWORKING TECHNOLOGIES LTD."	"e:\迅雷\thunder\bho\shlext646.0.1.5.dll"	"2020/1/8 20:30"	""
+    + "FormatFactoryShell"	"FormatFactory Shell Menu Module"	"(Not verified) Free Time"	"e:\英语\英语实用翻译\formatfactory\shellex64_103.dll"	"2013/6/18 1:33"	""
+    + "Safe360Ext"	"360安全卫士 系统扩展模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\utils\shell360ext64.dll"	"2019/12/23 18:37"	""
+    + "SoftMgrExt"	"360软件管家"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\softmgr\softmgrext64.dll"	"2019/3/11 10:02"	""
+    + "WinRAR"	"WinRAR 外壳扩展"	"(Verified) win.rar GmbH"	"c:\program files\winrar\rarext.dll"	"2019/4/28 4:03"	""
+    + "YunShellExt"	"YunShellExt"	"(Verified) Beijing Baidu Netcom Science and Technology Co.,Ltd"	"e:\baidunetdisk\yunshellext64.dll"	"2019/12/24 20:10"	""
+    "HKLM\Software\Classes\Drive\ShellEx\ContextMenuHandlers"	""	""	""	"2020/4/3 16:38"	""
+    + "VMDiskMenuHandler64"	"VMware Workstation"	"(Verified) VMware, Inc."	"c:\program files (x86)\vmware\vmware workstation\x64\vmdkshellext64.dll"	"2019/11/5 11:56"	""
+    "HKLM\Software\Classes\AllFileSystemObjects\ShellEx\ContextMenuHandlers"	""	""	""	"2020/4/30 10:49"	""
+    + "QQShellExt"	"腾讯QQ"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\program files (x86)\tencent\qq\shellext\qqshellext64.dll"	"2020/4/15 18:51"	""
+    "HKLM\Software\Classes\Directory\ShellEx\ContextMenuHandlers"	""	""	""	"2020/3/11 8:29"	""
+    + "FormatFactoryShell"	"FormatFactory Shell Menu Module"	"(Not Verified) Free Time"	"e:\英语\英语实用翻译\formatfactory\shellex64_103.dll"	"2013/6/18 1:33"	""
+    + "Safe360Ext"	"360安全卫士 系统扩展模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\utils\shell360ext64.dll"	"2019/12/23 18:37"	""
+    + "YunShellExt"	"YunShellExt"	"(Verified) Beijing Baidu Netcom Science and Technology Co.,Ltd"	"e:\baidunetdisk\yunshellext64.dll"	"2019/12/24 20:10"	""
+    "HKLM\Software\Classes\Directory\Background\ShellEx\ContextMenuHandlers"	""	""	""	"2020/3/30 11:39"	""
+    + "NvCplDesktopContext"	"NVIDIA Display Shell Extension"	"(Verified) NVIDIA Corporation"	"c:\windows\system32\driverstore\filerepository\nvlti.inf_amd64_2cbc2a9054f35eef\nvshext.dll"	"2020/3/18 11:33"	""
+    + "SoftMgrExt"	"360软件管家"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\softmgr\softmgrext64.dll"	"2019/3/11 10:02"	""
+    "HKLM\Software\Classes\Folder\ShellEx\ContextMenuHandlers"	""	""	""	"2020/4/30 10:49"	""
+    + "QQShellExt"	"腾讯QQ"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\program files (x86)\tencent\qq\shellext\qqshellext64.dll"	"2020/4/15 18:51"	""
+    + "Safe360Ext"	"360安全卫士 系统扩展模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\utils\shell360ext64.dll"	"2019/12/23 18:37"	""
+    + "WinRAR"	"WinRAR 外壳扩展"	"(Verified) win.rar GmbH"	"c:\program files\winrar\rarext.dll"	"2019/4/28 4:03"	""
+    "HKLM\Software\Classes\Folder\ShellEx\DragDropHandlers"	""	""	""	"2019/7/15 22:59"	""
+    + "WinRAR"	"WinRAR 外壳扩展"	"(Verified) win.rar GmbH"	"c:\program files\winrar\rarext.dll"	"2019/4/28 4:03"	""
+    "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\ShellIconOverlayIdentifiers"	""	""	""	"2020/3/11 8:47"	""
+    + "       360UDiskGuard Icon Overlay"	"360安全卫士 木马防火墙模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\program files (x86)\360\360safe\safemon\360udiskguard64.dll"	"2020/2/12 11:43"	""
+    "HKLM\Software\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects"	""	""	""	"2020/2/5 10:21"	""
+    + "Skype for Business Browser Helper"	"Skype for Business"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\vfs\programfilesx64\microsoft office\office16\ochelper.dll"	"2019/12/8 9:33"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Windows\CurrentVersion\Explorer\Browser Helper Objects"	""	""	""	"2020/4/30 10:48"	""
+    + "SangforHelper Class"	"SangforBHO Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\1_sangforbho.dll"	"2019/10/15 11:18"	""
+    + "Skype for Business Browser Helper"	"Skype for Business"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\ochelper.dll"	"2019/12/8 9:23"	""
+    + "SSOClientBHO Class"	"SSO Control"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\1_ssoclientprj.dll"	"2019/10/15 11:20"	""
+    "HKLM\Software\Microsoft\Internet Explorer\Extensions"	""	""	""	"2020/2/5 10:21"	""
+    + "Lync Click to Call"	"Skype for Business"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\vfs\programfilesx64\microsoft office\office16\ochelper.dll"	"2019/12/8 9:33"	""
+    + "OneNote Lin&ked Notes"	"Microsoft OneNote Internet Explorer Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\vfs\programfilesx64\microsoft office\office16\onbttnielinkednotes.dll"	"2020/4/6 9:24"	""
+    + "Se&nd to OneNote"	"Microsoft OneNote Internet Explorer Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\vfs\programfilesx64\microsoft office\office16\onbttnie.dll"	"2020/4/6 9:24"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Internet Explorer\Extensions"	""	""	""	"2019/8/31 17:12"	""
+    + "Lync Click to Call"	"Skype for Business"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\ochelper.dll"	"2019/12/8 9:23"	""
+    + "OneNote Lin&ked Notes"	"Microsoft OneNote Internet Explorer Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\onbttnielinkednotes.dll"	"2020/4/6 8:48"	""
+    + "Se&nd to OneNote"	"Microsoft OneNote Internet Explorer Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\onbttnie.dll"	"2020/4/6 8:48"	""
+    "Task Scheduler"	""	""	""	""	""
+    + "\Microsoft\Office\Office Automatic Updates 2.0"	"Microsoft Office Click-to-Run Client"	"(Verified) Microsoft Corporation"	"c:\program files\common files\microsoft shared\clicktorun\officec2rclient.exe"	"2020/4/10 4:52"	""
+    + "\Microsoft\Office\Office ClickToRun Service Monitor"	"Microsoft Office Click-to-Run Client"	"(Verified) Microsoft Corporation"	"c:\program files\common files\microsoft shared\clicktorun\officec2rclient.exe"	"2020/4/10 4:52"	""
+    X "\Microsoft\Office\Office Feature Updates"	"Microsoft Office SDX Helper"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\sdxhelper.exe"	"2020/4/14 6:28"	""
+    X "\Microsoft\Office\Office Feature Updates Logon"	"Microsoft Office SDX Helper"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\sdxhelper.exe"	"2020/4/14 6:28"	""
+    X "\Microsoft\Office\OfficeTelemetryAgentFallBack2016"	"Office Telemetry Dashboard Agent (OTD msoia)"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\msoia.exe"	"2020/4/6 8:42"	""
+    X "\Microsoft\Office\OfficeTelemetryAgentLogOn2016"	"Office Telemetry Dashboard Agent (OTD msoia)"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\msoia.exe"	"2020/4/6 8:42"	""
+    + "\Microsoft\VisualStudio\Updates\BackgroundDownload"	"Visual Studio Background Download"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft visual studio\installer\resources\app\servicehub\services\microsoft.visualstudio.setup.service\backgrounddownload.exe"	"1923/9/24 1:41"	""
+    + "\NerveCenterUpdate"	"Lenovo Nerve Center - 更新引擎"	"(Verified) LENOVO"	"c:\program files\lenovo\nerve center\bin\x64\lenovonervecenterupdateagent.exe"	"2017/9/29 14:25"	""
+    + "\NvBatteryBoostCheckOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA Container"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvcontainer\nvcontainer.exe"	"2020/2/26 22:08"	""
+    + "\NvDriverUpdateCheckDaily_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA Container"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvcontainer\nvcontainer.exe"	"2020/2/26 22:08"	""
+    + "\NVIDIA GeForce Experience SelfUpdate_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA GeForce Experience"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvidia geforce experience\nvidia geforce experience.exe"	"2020/4/8 7:25"	""
+    + "\NvNodeLauncher_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA nodejs launcher"	"(Verified) NVIDIA Corporation"	"c:\program files (x86)\nvidia corporation\nvnode\nvnodejslauncher.exe"	"2020/4/7 21:21"	""
+    + "\NvProfileUpdaterDaily_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA driver profile updater"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\update core\nvprofileupdater64.exe"	"2020/3/31 15:59"	""
+    + "\NvProfileUpdaterOnLogon_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA driver profile updater"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\update core\nvprofileupdater64.exe"	"2020/3/31 15:59"	""
+    + "\NvTmRep_CrashReport1_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA crash and telemetry reporter"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvbackend\nvtmrep.exe"	"2020/3/31 16:13"	""
+    + "\NvTmRep_CrashReport2_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA crash and telemetry reporter"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvbackend\nvtmrep.exe"	"2020/3/31 16:13"	""
+    + "\NvTmRep_CrashReport3_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA crash and telemetry reporter"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvbackend\nvtmrep.exe"	"2020/3/31 16:13"	""
+    + "\NvTmRep_CrashReport4_{B2FE1952-0186-46C3-BAEC-A80AA35AC5B8}"	"NVIDIA crash and telemetry reporter"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvbackend\nvtmrep.exe"	"2020/3/31 16:13"	""
+    "HKLM\System\CurrentControlSet\Services"	""	""	""	"2020/4/30 10:48"	""
+    + "360rp"	"360 杀毒实时防护加载服务: 本服务用于加载360杀毒实时防护，请确保开机启动。"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\program files\360\360sd\360rps.exe"	"2017/12/27 18:05"	""
+    + "AdobeFlashPlayerUpdateSvc"	"Adobe Flash Player Update Service: 此服务可使您安装的 Adobe Flash Player 能及时获得最新增强功能和安全修补程序。"	""	"File not found: C:\Windows\SysWOW64\Macromed\Flash\FlashPlayerUpdateService.exe"	""	""
+    + "BEService"	"BattlEye Service: "	"(Verified) BattlEye Innovations e.K."	"c:\program files (x86)\common files\battleye\beservice.exe"	"2019/3/21 18:53"	""
+    + "Bonjour Service"	"Bonjour 服务: 让硬件设备和软件服务在网络中自动配置并自行公布"	"(Verified) Apple Inc."	"c:\program files\bonjour\mdnsresponder.exe"	"2015/8/13 6:47"	""
+    + "CAJ Service Host"	"CAJ Service Host: TTKN®CAJHost"	"(Verified) Tongfang Knowledge Network Technology (Beijing) Co.,Ltd."	"c:\program files (x86)\ttkn\cajvd\cajshost.exe"	"2012/4/10 17:46"	""
+    + "ClickToRunSvc"	"Microsoft Office ClickToRun Service: ‪管理 Microsoft Office 及其相关更新的资源协调、后台下载和系统集成。使用任何 Microsoft Office 程序、初始下载安装以及所有后续更新期间需要运行此服务。‬"	"(Verified) Microsoft Corporation"	"c:\program files\common files\microsoft shared\clicktorun\officeclicktorun.exe"	"2020/4/8 13:53"	""
+    + "cphs"	"Intel(R) Content Protection HECI Service: Intel(R) Content Protection HECI Service - enables communication with the Content Protection FW"	"(Verified) Intel(R) pGFX"	"c:\windows\system32\driverstore\filerepository\ki121392.inf_amd64_3c470e1034169038\intelcphecisvc.exe"	"2017/1/3 15:30"	""
+    + "cplspcon"	"Intel(R) Content Protection HDCP Service: Intel(R) Content Protection HDCP Service - enables communication with Content Protection HDCP HW"	"(Verified) Intel(R) pGFX"	"c:\windows\system32\driverstore\filerepository\ki121392.inf_amd64_3c470e1034169038\intelcphdcpsvc.exe"	"2017/3/10 2:37"	""
+    + "Dolby DAX2 API Service"	"Dolby DAX2 API Service: Dolby DAX2 API Service is used by Dolby DAX2 applications to control Dolby Audio components in the system."	"(Verified) Dolby Laboratories, Inc."	"c:\program files\dolby\dolby dax2\dax2_api\dolbydax2api.exe"	"2017/4/10 15:34"	""
+    + "Everything"	"Everything: Everything"	"(Verified) voidtools"	"e:\everything\everything.exe"	"2020/2/15 7:58"	""
+    + "FileZilla Server"	"FileZilla Server FTP server: FileZilla Server"	"(Verified) Tim Kosse"	"d:\phpstudy_pro\extensions\ftp0.9.60\filezilla server.exe"	"2017/2/6 21:53"	""
+    + "Flash Helper Service"	"Flash Helper Service: Flash Player更新辅助服务,确保使用最新版的 Flash Player 软件。会向重庆重橙网络科技有限公司发送匿名使用Flash相关数据以帮助改进 Flash Player。"	"(Verified) 重庆重橙网络科技有限公司"	"c:\windows\syswow64\macromed\flash\flashhelperservice.exe"	"2020/3/26 14:10"	""
+    + "FontCache3.0.0.0"	"Windows Presentation Foundation Font Cache 3.0.0.0: 通过缓存常用的字体数据来优化 Windows Presentation Foundation (WPF) 应用程序的性能。WPF 应用程序将启动此服务(如果尚未启动)。可以禁用此服务，尽管这样做会降低 WPF 应用程序的性能。"	"(Verified) Microsoft Corporation"	"c:\windows\microsoft.net\framework64\v3.0\wpf\presentationfontcache.exe"	"2018/8/7 11:21"	""
+    + "GameRecorderSVC"	"GameRecorderSVC: GameRecorderSVC - 为Lenovo Nerve Center提供游戏录制后台服务"	"(Verified) LENOVO"	"c:\program files\lenovo\nerve center\bin\x86\gamerecordersvc.exe"	"2017/9/29 14:23"	""
+    + "gupdate"	"Google 更新服务 (gupdate): 请确保使用最新版的 Google 软件。如果停用或中断此服务，则您的 Google 软件就无法及时更新，这意味着无法修复潜在的安全漏洞，同时某些功能也无法正常运行。如果没有任何 Google 软件使用此服务，则此服务会自行卸载。"	"(Verified) Google Inc"	"c:\program files (x86)\google\update\googleupdate.exe"	"2017/4/22 9:31"	""
+    + "gupdatem"	"Google 更新服务 (gupdatem): 请确保使用最新版的 Google 软件。如果停用或中断此服务，则您的 Google 软件就无法及时更新，这意味着无法修复潜在的安全漏洞，同时某些功能也无法正常运行。如果没有任何 Google 软件使用此服务，则此服务会自行卸载。"	"(Verified) Google Inc"	"c:\program files (x86)\google\update\googleupdate.exe"	"2017/4/22 9:31"	""
+    + "HuaweiHiSuiteService64.exe"	"HuaweiHiSuiteService64.exe: Service for runing HiSuite applications autorun."	""	"c:\program files (x86)\hisuite\handsetservice\huaweihisuiteservice64.exe"	"2016/8/25 17:27"	""
+    + "igfxCUIService2.0.0.0"	"Intel(R) HD Graphics Control Panel Service: Service for Intel(R) HD Graphics Control Panel"	"(Verified) Intel(R) pGFX"	"c:\windows\system32\driverstore\filerepository\ki121392.inf_amd64_3c470e1034169038\igfxcuiservice.exe"	"2017/3/10 2:12"	""
+    + "MozillaMaintenance"	"Mozilla Maintenance Service: Mozilla 维护服务能确保您的计算机上使用的是最新、最安全的 Mozilla Firefox 版本。保持 Firefox 版本及时更新对您的网络安全至关重要，Mozilla 强烈建议您保持开启这个服务。"	"(Verified) Mozilla Corporation"	"c:\program files (x86)\mozilla maintenance service\maintenanceservice.exe"	"2020/4/4 2:52"	""
+    + "NvContainerLocalSystem"	"NVIDIA LocalSystem Container: Container service for NVIDIA root features"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvcontainer\nvcontainer.exe"	"2020/2/26 22:08"	""
+    + "NVDisplay.ContainerLocalSystem"	"NVIDIA Display Container LS: Container service for NVIDIA root features"	"(Verified) NVIDIA Corporation"	"c:\windows\system32\driverstore\filerepository\nvlti.inf_amd64_2cbc2a9054f35eef\display.nvcontainer\nvdisplay.container.exe"	"2020/2/21 23:03"	""
+    + "O2FLASH"	"O2FLASH: O2 Flash Memory Service"	"(Verified) O2Micro Inc."	"c:\windows\system32\drivers\o2flash.exe"	"2006/10/19 14:41"	""
+    + "ose"	"Office  Source Engine: Saves installation files used for updates and repairs and is required for the downloading of Setup updates and Watson error reports."	"(Verified) Microsoft Corporation"	"c:\program files (x86)\common files\microsoft shared\source engine\ose.exe"	"2020/4/6 8:51"	""
+    + "PluginLoaderSvc"	"PluginLoaderSvc: Lenovo Nerve Center - 核心服务"	"(Verified) LENOVO"	"c:\program files\lenovo\nerve center\bin\x64\pluginloadersvc.exe"	"2017/9/29 14:24"	""
+    + "QiyiService"	"IQIYI Video Platform Service: 爱奇艺视频平台服务"	"(Verified) BEIJING QIYI CENTURY SCIENCE&TECHNOLOGY CO.,LTD."	"e:\iqiyi video\lstyle\7.2.103.1388\qiyiservice.exe"	"2020/1/6 18:18"	""
+    + "QPCore"	"QPCore Service: 腾讯安全服务"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\program files (x86)\common files\tencent\qqprotect\bin\qqprotect.exe"	"2019/7/22 17:51"	""
+    + "SangforSP"	"SangforSP: Promote Service"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\promote\sangforpromoteservice.exe"	"2019/10/15 11:09"	""
+    + "Steam Client Service"	"Steam Client Service: Steam Client Service monitors and updates Steam content"	"(Verified) Valve"	"c:\program files (x86)\common files\steam\steamservice.exe"	"2020/4/4 8:37"	""
+    + "SynTPEnhService"	"SynTPEnh Caller Service: 64-bit Synaptics Pointing Enhance Service"	"(Verified) Synaptics Incorporated"	"c:\program files\synaptics\syntp\syntpenhservice.exe"	"2017/6/19 2:36"	""
+    + "TGuardSvc"	"TGuardSvc: TGuard Service"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\program files (x86)\tencent\tguard\tguardsvc.exe"	"2019/9/11 11:40"	""
+    + "VBoxSDS"	"VirtualBox system service: Used as a COM server for VirtualBox API."	"(Verified) Oracle Corporation"	"c:\program files\oracle\virtualbox\vboxsds.exe"	"2019/4/16 17:52"	""
+    + "VMAuthdService"	"VMware Authorization Service: 用于启动和访问虚拟机的授权及身份验证服务。"	"(Verified) VMware, Inc."	"c:\program files (x86)\vmware\vmware workstation\vmware-authd.exe"	"2019/11/5 11:53"	""
+    + "VMnetDHCP"	"VMware DHCP Service: DHCP service for virtual networks."	"(Verified) VMware, Inc."	"c:\windows\syswow64\vmnetdhcp.exe"	"2019/11/5 12:03"	""
+    + "VMUSBArbService"	"VMware USB Arbitration Service: Arbitration and enumeration of USB devices for virtual machines"	"(Verified) VMware, Inc."	"c:\program files (x86)\common files\vmware\usb\vmware-usbarbitrator64.exe"	"2019/8/21 23:11"	""
+    + "VMware NAT Service"	"VMware NAT Service: Network address translation for virtual networks."	"(Verified) VMware, Inc."	"c:\windows\syswow64\vmnat.exe"	"2019/11/5 12:04"	""
+    + "VMwareHostd"	"VMware Workstation Server: 用于虚拟机注册和管理的远程访问服务。"	"(Verified) VMware, Inc."	"c:\program files (x86)\vmware\vmware workstation\vmware-hostd.exe"	"2019/11/5 11:56"	""
+    + "VSStandardCollectorService150"	"Visual Studio Standard Collector Service 150: Visual Studio Data Collection Service. When running, this service collects real-time ETW events and processes them."	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft visual studio\shared\common\diagnosticshub.collection.service\standardcollector.service.exe"	"2019/5/1 14:11"	""
+    + "wampapache"	"wampapache: Apache/2.2.21 (Win32) PHP/5.3.10"	"(Not verified) Apache Software Foundation"	"e:\wamp\bin\apache\apache2.2.21\bin\httpd.exe"	"2011/9/10 17:43"	""
+    + "wampmysqld"	"wampmysqld: "	""	"e:\wamp\bin\mysql\mysql5.5.20\bin\mysqld.exe"	"2011/12/17 5:02"	""
+    + "ZhuDongFangYu"	"主动防御: 360主动防御的服务项，提供实时保护、文件变化监控、智能扫描加速等功能。关闭此服务可能导致木马防不住、查不出，严重降低木马扫描速度。"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\program files (x86)\360\360safe\deepscan\zhudongfangyu.exe"	"2018/8/27 19:34"	""
+    "HKLM\System\CurrentControlSet\Services"	""	""	""	"2020/4/30 10:48"	""
+    + "360AntiHacker"	"360Safe Anti Hacker Service: 360安全卫士 网络防黑模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360antihacker64.sys"	"2019/12/3 15:09"	""
+    + "360AntiHijack"	"360Safe Anti Hijack Service: 360安全卫士 DNS防护模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360antihijack64.sys"	"2019/11/12 15:17"	""
+    + "360AvFlt"	"360AvFlt mini-filter driver: 360杀毒 文件监控驱动"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\windows\system32\drivers\360avflt.sys"	"2016/7/19 16:45"	""
+    + "360Box64"	"360Box mini-filter driver: 360Box64"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360box64.sys"	"2019/12/18 15:28"	""
+    + "360Camera"	"360Safe Camera Filter Service: 360安全卫士 木马防火墙模块"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\windows\system32\drivers\360camera64.sys"	"2016/11/24 17:37"	""
+    + "360FsFlt"	"360FsFlt mini-filter driver: 360安全卫士 木马防火墙模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360fsflt.sys"	"2020/3/17 17:12"	""
+    + "360Hvm"	"360Safe HVM: 360Hvm64"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360hvm64.sys"	"2020/4/3 14:06"	""
+    + "360netmon"	"360netmon: 360netmon"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\windows\system32\drivers\360netmon.sys"	"2018/8/2 17:09"	""
+    + "360qpesv"	"360qpesv driver: 360安全卫士 开机加速模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360qpesv64.sys"	"2019/12/18 15:11"	""
+    + "360reskit64"	"360reskit driver: 360安全卫士 开机加速模块"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\360reskit64.sys"	"2019/12/18 14:59"	""
+    + "360Sensor"	"360Sensor: 360Sensor"	"(Verified) Qihoo 360 Software (Beijing) Company Limited"	"c:\windows\system32\drivers\360sensor64.sys"	"2017/6/15 17:47"	""
+    + "ACPIVPC"	"Lenovo Virtual Power Controller Driver: ACPI Virtual Power Controller Driver"	"(Verified) Lenovo (Beijing) Limited"	"c:\windows\system32\drivers\acpivpc.sys"	"2012/5/15 9:18"	""
+    + "ADP80XX"	"ADP80XX: PMC-Sierra Storport  Driver For SPC8x6G SAS/SATA controller"	"(Verified) PMC - SIERRA US, Inc"	"c:\windows\system32\drivers\adp80xx.sys"	"2015/8/5 20:50"	""
+    + "archba"	"Adaptec SAS/SATA-II HBA Storport's Miniport Driver: Adaptec SAS HBA Driver"	"(Verified) PMC - SIERRA US, Inc"	"c:\windows\system32\drivers\archba.sys"	"2016/3/4 9:37"	""
+    + "asstahci64"	"asstahci64: Asmedia 106x SATA Host Controller Driver"	"(Verified) ASMedia Technology Inc."	"c:\windows\system32\drivers\asstahci64.sys"	"2015/11/12 15:33"	""
+    + "BAPIDRV"	"BAPIDRV: BAPIDRV"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\bapidrv64.sys"	"2019/11/1 15:57"	""
+    + "cheano_drv"	"cheano_drv: "	"(Verified) 杭州易玩科技有限公司"	"f:\steamlibrary\steamapps\common\counter-strike global offensive\bin\cheano_drv.sys"	"2019/4/27 17:18"	""
+    + "DsArk"	"DsArk: DsArk64.sys"	"(Verified) Beijing Qihu Technology Co., Ltd."	"c:\windows\system32\drivers\dsark64.sys"	"2019/11/1 15:11"	""
+    + "FBNetFilter"	"FBNetFilter: NetFilter Driver"	"(Verified) Lenovo (Beijing) Co., Ltd."	"c:\windows\system32\drivers\fbnetflt.sys"	"2016/8/18 7:04"	""
+    + "hcmon"	"VMware hcmon: VMware USB Host Controller Monitor"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\hcmon.sys"	"2019/4/7 23:15"	""
+    + "hidgamemap"	"Game Controller Mapper: Used to remap buttons on game controller"	"(Verified) AVB Disc Soft, SIA"	"c:\windows\system32\drivers\hidgamemap.sys"	"2019/7/12 20:33"	""
+    + "iaLPSS2_GPIO2"	"Intel(R) Serial IO GPIO Driver v2: Intel(R) Serial IO GPIO Driver v2"	"(Verified) Intel(R) Embedded Subsystems and IP Blocks Group"	"c:\windows\system32\drivers\ialpss2_gpio2.sys"	"2018/6/5 10:41"	""
+    + "iaLPSSi_GPIO"	"Intel(R) 串行 IO GPIO 主机控制器驱动程序: Intel(R) Serial IO GPIO Controller Driver"	"(Verified) Intel Corporation - Client Components Group"	"c:\windows\system32\drivers\ialpssi_gpio.sys"	"2015/2/2 17:00"	""
+    + "iaStorA"	"iaStorA: Intel(R) Rapid Storage Technology driver - x64"	"(Verified) Intel(R) Rapid Storage Technology"	"c:\windows\system32\drivers\iastora.sys"	"2016/8/23 23:15"	""
+    + "ICCWDT"	"Intel(R) Watchdog Timer Driver (Intel(R) WDT): Intel(R) Watchdog Timer Driver (Intel(R) WDT)"	"(Verified) Intel(R) Embedded Subsystems and IP Blocks Group"	"c:\windows\system32\drivers\iccwdt.sys"	"2017/9/19 19:15"	""
+    + "igfx"	"igfx: Intel Graphics Kernel Mode Driver"	"(Verified) Intel(R) pGFX"	"c:\windows\system32\driverstore\filerepository\ki121392.inf_amd64_3c470e1034169038\igdkmd64.sys"	"2017/3/10 2:38"	""
+    + "IntcAzAudAddService"	"Service for Realtek HD Audio (WDM): Realtek(r) High Definition Audio Function Driver"	"(Verified) Realtek Semiconductor Corp."	"c:\windows\system32\drivers\rtkvhd64.sys"	"2017/4/11 18:45"	""
+    + "IntcDAud"	"英特尔(R) 显示器音频: Intel(R) Display Audio Driver"	"(Verified) Intel(R) OWR"	"c:\windows\system32\drivers\intcdaud.sys"	"2016/12/1 18:15"	""
+    + "JRAID"	"JRAID: JMicron JMB36X RAID Driver"	"(Verified) JMicron Technology Corp."	"c:\windows\system32\drivers\jraid.sys"	"2012/9/17 14:50"	""
+    + "MEIx64"	"Intel(R) Management Engine Interface : Intel(R) Management Engine Interface"	"(Verified) Intel Corporation - Embedded Subsystems and IP Blocks Group"	"c:\windows\system32\drivers\teedriverw8x64.sys"	"2015/9/1 3:49"	""
+    + "mv61xx"	"mv61xx: Marvell Thor Windows Driver"	"(Verified) Marvell Semiconductor"	"c:\windows\system32\drivers\mv61xx.sys"	"2012/5/24 11:54"	""
+    + "mv64xx"	"mv64xx: Marvell Odin Windows Driver"	"(Verified) Marvell Semiconductor"	"c:\windows\system32\drivers\mv64xx.sys"	"2010/1/11 12:50"	""
+    + "mv91cons"	"Marvell 91xx Config Device Driver: Marvell 91xx Confige Device Driver"	"(Verified) Marvell Semiconductor, Inc."	"c:\windows\system32\drivers\mv91cons.sys"	"2013/10/11 12:36"	""
+    + "mvs91xx"	"mvs91xx: Marvell magni Windows Driver"	"(Verified) Marvell Semiconductor, Inc."	"c:\windows\system32\drivers\mvs91xx.sys"	"2015/9/7 9:44"	""
+    + "mvs94xx"	"mvs94xx: Marvell Vanir Windows Driver"	"(Verified) Marvell Semiconductor"	"c:\windows\system32\drivers\mvs94xx.sys"	"2012/8/1 19:37"	""
+    + "npcap"	"Npcap Packet Driver (NPCAP): Npcap Packet Driver (NPCAP)"	"(Verified) Insecure.Com LLC"	"c:\windows\system32\drivers\npcap.sys"	"2019/7/31 5:51"	""
+    + "nvlddmkm"	"nvlddmkm: NVIDIA Windows Kernel Mode Driver, Version 445.75 "	"(Verified) NVIDIA Corporation"	"c:\windows\system32\driverstore\filerepository\nvlti.inf_amd64_2cbc2a9054f35eef\nvlddmkm.sys"	"2020/3/18 11:32"	""
+    + "NvStreamKms"	"NVIDIA KMS: Nvidia Streaming Kernel Service"	"(Verified) NVIDIA Corporation"	"c:\program files\nvidia corporation\nvstreamsrv\nvstreamkms.sys"	"2018/6/26 7:52"	""
+    + "nvumi"	"nvumi: Marvell Flash Controller Driver"	"(Verified) Marvell Semiconductor"	"c:\windows\system32\drivers\nvumi.sys"	"2013/1/11 16:07"	""
+    + "nvvad_WaveExtensible"	"NVIDIA Virtual Audio Device (Wave Extensible) (WDM): NVIDIA Virtual Audio Driver"	"(Verified) NVIDIA Corporation"	"c:\windows\system32\drivers\nvvad64v.sys"	"2019/3/14 16:58"	""
+    + "nvvhci"	"NVVHCI Enumerator Service: Virtual USB Host Controller driver"	"(Verified) NVIDIA Corporation"	"c:\windows\system32\drivers\nvvhci.sys"	"2020/1/11 2:31"	""
+    + "O2FJ2RDR"	"O2FJ2RDR: O2Micro SD Reader Driver (AMD64)"	"(Verified) O2Micro"	"c:\windows\system32\drivers\o2fj2w8x64.sys"	"2013/7/19 17:30"	""
+    + "QQProtectX64"	"QQProtect Driver For x64: QQProtect Driver for X64"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\windows\system32\drivers\qqprotectx64.sys"	"2019/6/19 15:57"	""
+    + "rccfg"	"AMD-RAID Config Device: AMD-RAID Configuration driver"	"(Verified) Dot Hill Systems Corp"	"c:\windows\system32\drivers\rccfg.sys"	"2015/7/30 2:36"	""
+    + "rcraid"	"rcraid: AMD-RAID StorPort"	"(Verified) Dot Hill Systems Corp"	"c:\windows\system32\drivers\rcraid.sys"	"2015/7/30 2:46"	""
+    + "Rockey5U"	"Rockey5U: "	""	"File not found: E:\Chrome下载\吾爱破解专用版Ollydbg\plugin\Rockey5U.sys"	""	""
+    + "rt640x64"	"Realtek RT640 NT Driver: Realtek 8101E/8168/8169 NDIS 6.40 64-bit Driver                "	"(Verified) Realtek Semiconductor Corp."	"c:\windows\system32\drivers\rt640x64.sys"	"2017/8/11 15:41"	""
+    + "RtkBtFilter"	"Realtek Bluetooth Filter Driver: Realtek Bluetooth Filter Driver"	"(Verified) Realtek Semiconductor Corp."	"c:\windows\system32\drivers\rtkbtfilter.sys"	"2018/2/28 15:20"	""
+    + "rtsuvc"	"EasyCamera: Realtek UVC Driver for Win7/Win8/Win8.1/Win10"	"(Verified) Realtek Semiconductor Corp."	"c:\windows\system32\drivers\rtsuvc.sys"	"2017/5/12 17:19"	""
+    + "RTWlanE"	"Realtek Wireless LAN 802.11n PCI-E Network Adapter: Realtek PCIE NDIS Driver 61236 29887"	"(Verified) Realtek Semiconductor Corp."	"c:\windows\system32\drivers\rtwlane.sys"	"2018/1/12 16:08"	""
+    + "SangforDnsDrv_7,5,0,1"	"SangforDnsDrv_7,5,0,1: Sangfor DnsDriver"	"(Verified) Sangfor Technologies Co.,Ltd"	"c:\program files (x86)\sangfor\ssl\dnsdriver\sangfordnsdrv.sys"	"2017/1/16 19:47"	""
+    + "SangforTcpDrv_7,5,0,1"	"SangforTcpDrv_7,5,0,1: Sangfor WfpDriver"	"(Verified) Sangfor Technologies Co.,Ltd"	"c:\program files (x86)\sangfor\ssl\tcpdriver\sangfortcpdrv.sys"	"2017/5/14 15:29"	""
+    + "SangforVnic"	"Sangfor SSL VPN CS Support System VNIC: Sangfor SSL VPN CS Support System VNIC"	"(Verified) Sangfor Technologies Co.,Ltd"	"c:\windows\system32\drivers\sangforvnic.sys"	"2012/11/20 20:31"	""
+    + "SmbDrvI"	"SmbDrvI: Synaptics SMBus Driver"	"(Verified) Synaptics Incorporated"	"c:\windows\system32\drivers\smb_driver_intel.sys"	"2017/6/19 0:37"	""
+    + "SynTP"	"Synaptics TouchPad Driver: Synaptics Touchpad Win64 Driver"	"(Verified) Synaptics Incorporated"	"c:\windows\system32\drivers\syntp.sys"	"2017/6/19 0:36"	""
+    + "TESMON"	"TESMON: TesMon64"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\windows\system32\drivers\tesmon.sys"	"2019/4/8 13:31"	""
+    + "tesrsdt"	"tesrsdt: tesrsdt64 NT Driver"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\windows\system32\drivers\tesrsdt.sys"	"2019/11/5 19:21"	""
+    + "TesSafe"	"TesSafe: Loader64 NT Driver"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\windows\system32\tessafe.sys"	"2018/4/17 19:45"	""
+    + "UniSafe"	"UniSafe: Loader64 NT Driver"	"(Verified) Tencent Technology(Shenzhen) Company Limited"	"c:\windows\system32\drivers\unisafe.sys"	"2019/12/16 15:16"	""
+    + "uuwfp"	"UU WFP Driver: "	"(Verified) NetEase(Hangzhou) Network Co. Ltd."	"c:\windows\system32\drivers\uuwfp.sys"	"2020/3/11 15:20"	""
+    + "VBoxDrv"	"VirtualBox Service: VirtualBox Support Driver"	"(Verified) Oracle Corporation"	"c:\windows\system32\drivers\vboxdrv.sys"	"2019/4/16 17:52"	""
+    + "VBoxNetAdp"	"VirtualBox NDIS 6.0 Miniport Service: VirtualBox NDIS 6.0 Host-Only Network Adapter Driver"	"(Verified) Oracle Corporation"	"c:\windows\system32\drivers\vboxnetadp6.sys"	"2019/4/16 17:52"	""
+    + "vmci"	"VMware VMCI Bus Driver: VMware PCI VMCI Bus Device"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vmci.sys"	"2019/7/16 13:03"	""
+    + "VMnetAdapter"	"VMware Virtual Ethernet Adapter Driver: Driver for VMware's Virtual Ethernet Adapters Ver. 2"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vmnetadapter.sys"	"2019/8/9 19:14"	""
+    + "VMnetBridge"	"VMware Bridge Protocol: VMware Bridge Protocol"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vmnetbridge.sys"	"2019/8/9 19:14"	""
+    + "VMnetuserif"	"VMware Virtual Ethernet Userif for VMnet: VMware Virtual Ethernet Userif for VMnet"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vmnetuserif.sys"	"2019/8/9 19:14"	""
+    + "vmx86"	"VMware vmx86: VMware vmx86 driver"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vmx86.sys"	"2019/8/6 16:38"	""
+    + "vsock"	"vSockets Virtual Machine Communication Interface Sockets driver: vSockets Driver"	"(Verified) VMware, Inc."	"c:\windows\system32\drivers\vsock.sys"	"2019/7/16 13:04"	""
+    + "vstor2-mntapi20-shared"	"Vstor2 MntApi 2.0 Driver (shared): VMware Virtual Storage Volume Driver"	"(Verified) VMware, Inc."	"c:\windows\syswow64\drivers\vstor2-x64.sys"	"2017/8/15 15:45"	""
+    + "Win10Pcap"	"Win10Pcap Packet Capture Driver: A lightweight helper kernel-mode module for Win10Pcap."	"(Verified) SoftEther Corporation"	"c:\windows\system32\drivers\win10pcap.sys"	"2015/10/8 11:04"	""
+    "HKLM\SOFTWARE\Microsoft\Windows NT\CurrentVersion\Font Drivers"	""	""	""	"2018/9/15 15:36"	""
+    + "Adobe Type Manager"	""	""	"File not found: atmfd.dll"	""	""
+    "HKLM\SOFTWARE\Classes\Htmlfile\Shell\Open\Command\(Default)"	""	""	""	"2019/1/3 19:01"	""
+    + "C:\Program Files\Internet Explorer\iexplore.exe"	"Internet Explorer"	"(Verified) Microsoft Corporation"	"c:\program files\internet explorer\iexplore.exe"	"1995/12/11 12:18"	""
+    "HKLM\System\CurrentControlSet\Control\Session Manager\KnownDlls"	""	""	""	"2019/12/28 23:53"	""
+    + "_wow64cpu"	""	""	"c:\windows\syswow64\wow64cpu.dll"	""	""
+    + "_wowarmhw"	""	""	"c:\windows\system32\wowarmhw.dll"	""	""
+    + "_wowarmhw"	""	""	"c:\windows\syswow64\wowarmhw.dll"	""	""
+    + "_xtajit"	""	""	"c:\windows\system32\xtajit.dll"	""	""
+    + "_xtajit"	""	""	"c:\windows\syswow64\xtajit.dll"	""	""
+    + "wow64"	""	""	"c:\windows\syswow64\wow64.dll"	""	""
+    + "wow64win"	""	""	"c:\windows\syswow64\wow64win.dll"	""	""
+    "HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries"	""	""	""	"2020/3/30 9:57"	""
+    + "SangforLSP_def"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "SangforLSP_def over [MSAFD Tcpip [RAW/IP]]"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "SangforLSP_def over [MSAFD Tcpip [TCP/IP]]"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "SangforLSP_def over [MSAFD Tcpip [UDP/IP]]"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "SangforLSP_def over [RSVP TCP 服务提供商]"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "SangforLSP_def over [RSVP UDP 服务提供商]"	"TCP Service Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\3_sangfortcp.dll"	"2019/10/15 11:17"	""
+    + "vSockets DGRAM"	"VSockets Library"	"(Verified) VMware, Inc."	"c:\windows\system32\vsocklib.dll"	"2019/7/16 13:02"	""
+    + "vSockets STREAM"	"VSockets Library"	"(Verified) VMware, Inc."	"c:\windows\system32\vsocklib.dll"	"2019/7/16 13:02"	""
+    "HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries"	""	""	""	"2020/1/29 20:01"	""
+    + "mdnsNSP"	"Bonjour Namespace Provider"	"(Verified) Apple Inc."	"c:\program files (x86)\bonjour\mdnsnsp.dll"	"2015/8/13 6:48"	""
+    + "Sangfor SSL Name Space Provider"	"SangforNsp Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\1_sangfornsp.dll"	"2019/10/15 11:15"	""
+    + "Sangfor SSL Name Space Provider"	"SangforNsp Module"	"(Verified) Sangfor Technologies Inc."	"c:\program files (x86)\sangfor\ssl\clientcomponent\1_sangfornsp.dll"	"2019/10/15 11:15"	""
+    "HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\Protocol_Catalog9\Catalog_Entries64"	""	""	""	"2020/3/30 9:57"	""
+    + "vSockets DGRAM"	"VSockets Library"	"(Verified) VMware, Inc."	"c:\windows\system32\vsocklib.dll"	"2019/7/16 13:02"	""
+    + "vSockets STREAM"	"VSockets Library"	"(Verified) VMware, Inc."	"c:\windows\system32\vsocklib.dll"	"2019/7/16 13:02"	""
+    "HKLM\System\CurrentControlSet\Services\WinSock2\Parameters\NameSpace_Catalog5\Catalog_Entries64"	""	""	""	"2020/1/29 20:01"	""
+    + "mdnsNSP"	"Bonjour Namespace Provider"	"(Verified) Apple Inc."	"c:\program files\bonjour\mdnsnsp.dll"	"2015/8/13 6:47"	""
+    + "Sangfor SSL Name Space Provider"	"TODO: <File description>"	"(Verified) Sangfor Technologies Co.,Ltd"	"c:\program files (x86)\sangfor\ssl\clientcomponent\sangfornspx64.dll"	"2017/12/1 17:26"	""
+    + "Sangfor SSL Name Space Provider"	"TODO: <File description>"	"(Verified) Sangfor Technologies Co.,Ltd"	"c:\program files (x86)\sangfor\ssl\clientcomponent\sangfornspx64.dll"	"2017/12/1 17:26"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Office\Outlook\Addins"	""	""	""	"2019/7/16 10:20"	""
+    + "LyncAddin Class"	"Skype for Business"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\microsoft office\root\office16\ucaddin.dll"	"2020/2/12 14:52"	""
+    "HKLM\Software\Microsoft\Office\Excel\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "{C10568F8-05F0-4D12-87DA-B724A5E12F2C}"	""	""	""	"2019/7/15 22:41"	""
+    "HKCU\Software\Microsoft\Office\Excel\Addins"	""	""	""	"2019/8/27 20:23"	""
+    + "{D81784B4-0592-45D1-8750-DFC982F4446E}"	""	""	""	"2019/10/17 15:34"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Office\Excel\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "OfficeSymbol.Connect12"	"Office Special Symbol Input Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\syminput.dll"	"2006/9/5 14:37"	""
+    "HKLM\Software\Microsoft\Office\PowerPoint\Addins"	""	""	""	"2020/2/23 16:57"	""
+    + "{C10568F8-05F0-4D12-87DA-B724A5E12F2C}"	""	""	""	"2019/7/15 22:41"	""
+    "HKCU\Software\Microsoft\Office\PowerPoint\Addins"	""	""	""	"2019/11/7 11:57"	""
+    + "Connect Class"	"网易有道词典Office插件"	"(Verified) NetEase Youdao Information Technology (Beijing) Co.,Ltd."	"e:\dict\stable\youdaogetword64.dll"	"2020/1/15 11:33"	""
+    + "{1C242BE3-05F6-458C-BA84-488C8CC0F21C}"	""	""	""	"2019/9/4 14:25"	""
+    + "{BB241B94-028A-441D-B9EB-B9AD3FDF2D9A}"	""	""	""	"2019/11/7 11:57"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Office\PowerPoint\Addins"	""	""	""	"2020/2/23 16:57"	""
+    + "OfficeSymbol.Connect12"	"Office Special Symbol Input Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\syminput.dll"	"2006/9/5 14:37"	""
+    "HKLM\Software\Microsoft\Office\Word\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "Calligraphy"	"Microsoft Word Calligraphy Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\calligra.dll"	"2006/9/14 10:32"	""
+    + "Genko.Connect12"	"Microsoft Word Genko Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\genko.dll"	"2006/9/18 10:07"	""
+    + "WordCEnvelopeWizard.Connect"	"Microsoft Word Chinese Envelope Wizard Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\cenvelop.dll"	"2006/8/28 18:43"	""
+    + "WordTableWizard.Connect"	""	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\1033\tblhead.dll"	"2000/11/2 15:39"	""
+    + "{C10568F8-05F0-4D12-87DA-B724A5E12F2C}"	""	""	""	"2019/7/15 22:41"	""
+    "HKCU\Software\Microsoft\Office\Word\Addins"	""	""	""	"2020/3/11 8:31"	""
+    + "Connect Class"	"网易有道词典Office插件"	"(Verified) NetEase Youdao Information Technology (Beijing) Co.,Ltd."	"e:\dict\stable\youdaogetword64.dll"	"2020/1/15 11:33"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Office\Word\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "Calligraphy"	"Microsoft Word Calligraphy Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\calligra.dll"	"2006/9/14 10:32"	""
+    + "Connect Class"	"Microsoft Word Genko Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\genko.dll"	"2006/9/18 10:07"	""
+    + "OfficeSymbol.Connect12"	"Office Special Symbol Input Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\syminput.dll"	"2006/9/5 14:37"	""
+    + "WordCEnvelopeWizard.Connect"	"Microsoft Word Chinese Envelope Wizard Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\cenvelop.dll"	"2006/8/28 18:43"	""
+    + "WordTableWizard.Connect"	""	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\1033\tblhead.dll"	"2000/11/2 15:39"	""
+    "HKLM\Software\Microsoft\Office\Access\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "{C10568F8-05F0-4D12-87DA-B724A5E12F2C}"	""	""	""	"2019/7/15 22:41"	""
+    "HKCU\Software\Microsoft\Office\Access\Addins"	""	""	""	"2019/8/27 20:23"	""
+    + "{E102D334-46E8-493F-891C-C38B985A92B4}"	""	""	""	"2019/8/27 20:23"	""
+    "HKLM\Software\Wow6432Node\Microsoft\Office\Access\Addins"	""	""	""	"2019/7/15 22:41"	""
+    + "OfficeSymbol.Connect12"	"Office Special Symbol Input Add-in"	"(Verified) Microsoft Corporation"	"c:\program files (x86)\office2007\addins\syminput.dll"	"2006/9/5 14:37"	""
+
+nic information:
+    网卡:             安装了 7 个 NIC。
+                  [01]: Realtek 8821AE Wireless LAN 802.11ac PCI-E NIC
+                      连接名:      WLAN
+                      启用 DHCP:   是
+                      DHCP 服务器: 192.168.1.1
+                      IP 地址
+                        [01]: 192.168.1.5
+                        [02]: fe80::8800:201c:21c1:1f8
+                        [03]: 240e:b0:40b8:8dc0:5cad:7176:4f83:d57f
+                        [04]: 240e:b0:40b8:8dc0:8800:201c:21c1:1f8
+                  [02]: Realtek PCIe GBE Family Controller
+                      连接名:      以太网
+                      状态:        媒体连接已中断
+                  [03]: VirtualBox Host-Only Ethernet Adapter
+                      连接名:      VirtualBox Host-Only Network
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.56.1
+                        [02]: fe80::f835:f59c:fbf6:c47
+                  [04]: VMware Virtual Ethernet Adapter for VMnet1
+                      连接名:      VMware Network Adapter VMnet1
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.148.1
+                        [02]: fe80::e568:cef6:a2c0:b631
+                  [05]: VMware Virtual Ethernet Adapter for VMnet8
+                      连接名:      VMware Network Adapter VMnet8
+                      启用 DHCP:   否
+                      IP 地址
+                        [01]: 192.168.159.1
+                        [02]: fe80::d9d:c7d5:a461:aa96
+                  [06]: Sangfor SSL VPN CS Support System VNIC
+                      连接名:      以太网 2
+                      状态:        媒体连接已中断
+                  [07]: Microsoft KM-TEST Loopback Adapter
+                      连接名:      Npcap Loopback Adapter
+                      启用 DHCP:   是
+                      DHCP 服务器: 255.255.255.255
+                      IP 地址
+                        [01]: 169.254.119.85
+                        [02]: fe80::fc43:47b:d912:7755
+route information:
+    ===========================================================================
+    接口列表
+    21...54 e1 ad 4f 7e 43 ......Realtek PCIe GBE Family Controller
+    4...0a 00 27 00 00 04 ......VirtualBox Host-Only Ethernet Adapter
+    10...00 ff 6c 3d 74 44 ......Sangfor SSL VPN CS Support System VNIC
+    9...02 00 4c 4f 4f 50 ......Npcap Loopback Adapter
+    20...62 14 b3 6d 20 7f ......Microsoft Wi-Fi Direct Virtual Adapter
+    19...60 14 b3 6d 20 7f ......Microsoft Wi-Fi Direct Virtual Adapter #2
+    18...00 50 56 c0 00 01 ......VMware Virtual Ethernet Adapter for VMnet1
+    16...00 50 56 c0 00 08 ......VMware Virtual Ethernet Adapter for VMnet8
+    13...60 14 b3 6d 20 7f ......Realtek 8821AE Wireless LAN 802.11ac PCI-E NIC
+    1...........................Software Loopback Interface 1
+    ===========================================================================
+
+    IPv4 路由表
+    ===========================================================================
+    活动路由:
+    网络目标        网络掩码          网关       接口   跃点数
+            0.0.0.0          0.0.0.0      192.168.1.1      192.168.1.5     55
+            127.0.0.0        255.0.0.0            在链路上         127.0.0.1    331
+            127.0.0.1  255.255.255.255            在链路上         127.0.0.1    331
+    127.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+        169.254.0.0      255.255.0.0            在链路上    169.254.119.85    281
+    169.254.119.85  255.255.255.255            在链路上    169.254.119.85    281
+    169.254.255.255  255.255.255.255            在链路上    169.254.119.85    281
+        192.168.1.0    255.255.255.0            在链路上       192.168.1.5    311
+        192.168.1.5  255.255.255.255            在链路上       192.168.1.5    311
+        192.168.1.255  255.255.255.255            在链路上       192.168.1.5    311
+        192.168.56.0    255.255.255.0            在链路上      192.168.56.1    281
+        192.168.56.1  255.255.255.255            在链路上      192.168.56.1    281
+    192.168.56.255  255.255.255.255            在链路上      192.168.56.1    281
+        192.168.148.0    255.255.255.0            在链路上     192.168.148.1    291
+        192.168.148.1  255.255.255.255            在链路上     192.168.148.1    291
+    192.168.148.255  255.255.255.255            在链路上     192.168.148.1    291
+        192.168.159.0    255.255.255.0            在链路上     192.168.159.1    291
+        192.168.159.1  255.255.255.255            在链路上     192.168.159.1    291
+    192.168.159.255  255.255.255.255            在链路上     192.168.159.1    291
+            224.0.0.0        240.0.0.0            在链路上         127.0.0.1    331
+            224.0.0.0        240.0.0.0            在链路上      192.168.56.1    281
+            224.0.0.0        240.0.0.0            在链路上     192.168.148.1    291
+            224.0.0.0        240.0.0.0            在链路上     192.168.159.1    291
+            224.0.0.0        240.0.0.0            在链路上    169.254.119.85    281
+            224.0.0.0        240.0.0.0            在链路上       192.168.1.5    311
+    255.255.255.255  255.255.255.255            在链路上         127.0.0.1    331
+    255.255.255.255  255.255.255.255            在链路上      192.168.56.1    281
+    255.255.255.255  255.255.255.255            在链路上     192.168.148.1    291
+    255.255.255.255  255.255.255.255            在链路上     192.168.159.1    291
+    255.255.255.255  255.255.255.255            在链路上    169.254.119.85    281
+    255.255.255.255  255.255.255.255            在链路上       192.168.1.5    311
+    ===========================================================================
+    永久路由:
+    无
+
+    IPv6 路由表
+    ===========================================================================
+    活动路由:
+    接口跃点数网络目标                网关
+    13    311 ::/0                     fe80::1
+    1    331 ::1/128                  在链路上
+    13    311 240e:b0:40b8:8dc0::/64   在链路上
+    13    311 240e:b0:40b8:8dc0:5cad:7176:4f83:d57f/128
+                                        在链路上
+    13    311 240e:b0:40b8:8dc0:8800:201c:21c1:1f8/128
+                                        在链路上
+    4    281 fe80::/64                在链路上
+    18    291 fe80::/64                在链路上
+    16    291 fe80::/64                在链路上
+    9    281 fe80::/64                在链路上
+    13    311 fe80::/64                在链路上
+    16    291 fe80::d9d:c7d5:a461:aa96/128
+                                        在链路上
+    13    311 fe80::8800:201c:21c1:1f8/128
+                                        在链路上
+    18    291 fe80::e568:cef6:a2c0:b631/128
+                                        在链路上
+    4    281 fe80::f835:f59c:fbf6:c47/128
+                                        在链路上
+    9    281 fe80::fc43:47b:d912:7755/128
+                                        在链路上
+    1    331 ff00::/8                 在链路上
+    4    281 ff00::/8                 在链路上
+    18    291 ff00::/8                 在链路上
+    16    291 ff00::/8                 在链路上
+    9    281 ff00::/8                 在链路上
+    13    311 ff00::/8                 在链路上
+    ===========================================================================
+    永久路由:
+    无
+arp information:
+    接口: 192.168.56.1 --- 0x4
+    Internet 地址         物理地址              类型
+    192.168.56.255        ff-ff-ff-ff-ff-ff     静态
+    224.0.0.22            01-00-5e-00-00-16     静态
+    224.0.0.251           01-00-5e-00-00-fb     静态
+    224.0.0.252           01-00-5e-00-00-fc     静态
+    239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+    接口: 169.254.119.85 --- 0x9
+    Internet 地址         物理地址              类型
+    169.254.255.255       ff-ff-ff-ff-ff-ff     静态
+    224.0.0.22            01-00-5e-00-00-16     静态
+    224.0.0.251           01-00-5e-00-00-fb     静态
+    224.0.0.252           01-00-5e-00-00-fc     静态
+    239.255.255.250       01-00-5e-7f-ff-fa     静态
+    255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+    接口: 192.168.1.5 --- 0xd
+    Internet 地址         物理地址              类型
+    192.168.1.1           e4-bd-4b-36-07-68     动态
+    192.168.1.255         ff-ff-ff-ff-ff-ff     静态
+    224.0.0.22            01-00-5e-00-00-16     静态
+    224.0.0.251           01-00-5e-00-00-fb     静态
+    224.0.0.252           01-00-5e-00-00-fc     静态
+    239.255.255.250       01-00-5e-7f-ff-fa     静态
+    255.255.255.255       ff-ff-ff-ff-ff-ff     静态
+
+    接口: 192.168.159.1 --- 0x10
+    Internet 地址         物理地址              类型
+    192.168.159.255       ff-ff-ff-ff-ff-ff     静态
+    224.0.0.22            01-00-5e-00-00-16     静态
+    224.0.0.251           01-00-5e-00-00-fb     静态
+    224.0.0.252           01-00-5e-00-00-fc     静态
+    239.255.255.250       01-00-5e-7f-ff-fa     静态
+
+    接口: 192.168.148.1 --- 0x12
+    Internet 地址         物理地址              类型
+    192.168.148.255       ff-ff-ff-ff-ff-ff     静态
+    224.0.0.22            01-00-5e-00-00-16     静态
+    224.0.0.251           01-00-5e-00-00-fb     静态
+    224.0.0.252           01-00-5e-00-00-fc     静态
+    239.255.255.250       01-00-5e-7f-ff-fa     静态
+information of processes:
+    Name                                                                             Version           
+    Python 3.8.2 Add to Path (64-bit)                                                3.8.2150.0        
+    Python 3.8.2 Core Interpreter (64-bit)                                           3.8.2150.0        
+    Python 3.8.2 Development Libraries (64-bit)                                      3.8.2150.0        
+    Python 3.8.2 Documentation (64-bit)                                              3.8.2150.0        
+    Python 3.8.2 Executables (64-bit)                                                3.8.2150.0        
+    Python 3.8.2 Utility Scripts (64-bit)                                            3.8.2150.0        
+    Python 3.8.2 pip Bootstrap (64-bit)                                              3.8.2150.0        
+    Python 3.8.2 Standard Library (64-bit)                                           3.8.2150.0        
+    Python 3.8.2 Tcl/Tk Support (64-bit)                                             3.8.2150.0        
+    Python 3.8.2 Test Suite (64-bit)                                                 3.8.2150.0        
+                                                                                                    
+    Office 16 Click-to-Run Extensibility Component                                   16.0.12624.20442  
+    Office 16 Click-to-Run Localization Component                                    16.0.12624.20442  
+    Office 16 Click-to-Run Extensibility Component 64-bit Registration               16.0.12624.20442  
+    Office 16 Click-to-Run Licensing Component                                       16.0.12624.20466  
+    Universal CRT Headers Libraries and Sources                                      10.1.18362.1      
+    Windows SDK Redistributables                                                     10.1.18362.1      
+    MSI Development Tools                                                            10.1.18362.1      
+    Microsoft System CLR Types for SQL Server 2019 CTP2.2                            15.0.1200.24      
+    Windows SDK Desktop Tools x86                                                    10.1.18362.1      
+    vcpp_crt.redist.clickonce                                                        14.24.28127       
+    Windows SDK Desktop Tools x64                                                    10.1.18362.1      
+    WinRT Intellisense PPI - en-us                                                   10.1.18362.1      
+    WinRT Intellisense UAP - Other Languages                                         10.1.18362.1      
+    Microsoft Visual C++ 2010  x64 Redistributable - 10.0.40219                      10.0.40219        
+    Windows SDK AddOn                                                                10.1.0.0          
+    Microsoft Visual C++ 2005 Redistributable (x64)                                  8.0.61186         
+    Microsoft Visual C++ 2013 x86 Minimum Runtime - 12.0.40664                       12.0.40664        
+    Windows SDK                                                                      10.1.18362.1      
+    Microsoft Visual C++ 2010  x86 Redistributable - 10.0.40219                      10.0.40219        
+    Windows SDK for Windows Store Apps Contracts                                     10.1.18362.1      
+    Windows SDK Signing Tools                                                        10.1.18362.1      
+    Windows SDK EULA                                                                 10.1.18362.1      
+    Microsoft Visual C++ 2019 X86 Debug Runtime - 14.24.28127                        14.24.28127       
+    Windows SDK ARM Desktop Tools                                                    10.1.18362.1      
+    vs_tipsmsi                                                                       16.0.28329        
+    icecap_collection_neutral                                                        16.4.29430        
+    Windows Mobile Extension SDK Contracts                                           10.1.18362.1      
+    WinRT Intellisense PPI - Other Languages                                         10.1.18362.1      
+    Windows SDK for Windows Store Apps Metadata                                      10.1.18362.1      
+    vs_Graphics_Singletonx86                                                         16.4.29411        
+    WinRT Intellisense Desktop - en-us                                               10.1.18362.1      
+    Microsoft Web Deploy 4.0                                                         10.0.2606         
+    Universal CRT Tools x64                                                          10.1.18362.1      
+    Microsoft Visual C++ 2019 X86 Minimum Runtime - 14.26.28619                      14.26.28619       
+    Windows SDK DirectX x86 Remote                                                   10.1.18362.1      
+    vs_FileTracker_Singleton                                                         16.3.29209        
+    vs_filehandler_x86                                                               16.4.29411        
+    Microsoft Visual C++ 2005 Redistributable                                        8.0.59193         
+    SDK ARM Redistributables                                                         10.1.18362.1      
+    vs_minshellinteropmsi                                                            16.2.28917        
+    Microsoft Visual C++ 2013 x64 Minimum Runtime - 12.0.40664                       12.0.40664        
+    Windows Mobile Extension SDK                                                     10.1.18362.1      
+    vs_devenvmsi                                                                     16.0.28329        
+    WinRT Intellisense IoT - Other Languages                                         10.1.18362.1      
+    Microsoft Visual Studio Setup Configuration                                      2.3.2200.14893    
+    Microsoft Visual Studio 2010 Tools for Office Runtime (x64)                      10.0.60830        
+    Python Launcher                                                                  3.8.6994.0        
+    vs_communitymsi                                                                  16.4.29430        
+    vs_filehandler_amd64                                                             16.4.29411        
+    Windows SDK Facade Windows WinMD Versioned                                       10.1.18362.1      
+    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.7523                   9.0.30729.7523    
+    SDK ARM Additions                                                                10.1.18362.1      
+    Universal CRT Tools x86                                                          10.1.18362.1      
+    Windows IoT Extension SDK Contracts                                              10.1.18362.1      
+    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.7523                   9.0.30729.7523    
+    Windows SDK for Windows Store Apps Tools                                         10.1.18362.1      
+    Windows SDK for Windows Store Managed Apps Libs                                  10.1.18362.1      
+    VMware Workstation                                                               15.5.1            
+    Microsoft Visual Studio 2010 Tools for Office Runtime (x64) Language Pack - CHS  10.0.60825        
+    Windows SDK for Windows Store Apps                                               10.1.18362.1      
+    Application Verifier x64 External Package                                        10.1.18362.1      
+    Kits Configuration Installer                                                     10.1.18362.1      
+    Microsoft Visual C++ 2019 X64 Debug Runtime - 14.24.28127                        14.24.28127       
+    Universal General MIDI DLS Extension SDK                                         10.1.18362.1      
+    Windows SDK Desktop Libs x86                                                     10.1.18362.1      
+    Microsoft Visual C++ 2012 x64 Additional Runtime - 11.0.61135                    11.0.61135        
+    Windows App Certification Kit x64                                                10.1.18362.1      
+    TypeScript SDK                                                                   3.7.3.0           
+    Microsoft .NET Framework 4 Multi-Targeting Pack                                  4.0.30319         
+    Bonjour                                                                          3.1.0.1           
+    Windows SDK for Windows Store Apps Libs                                          10.1.18362.1      
+    vs_minshellmsi                                                                   16.4.29411        
+    腾讯QQ                                                                           9.1.6.25827       
+    Windows SDK Desktop Libs x64                                                     10.1.18362.1      
+    VS Immersive Activate Helper                                                     16.0.98.0         
+    Windows SDK Desktop Tools arm64                                                  10.1.18362.1      
+                                                                                                    
+    Windows SDK DirectX x64 Remote                                                   10.1.18362.1      
+    Google Update Helper                                                             1.3.33.5          
+    Universal CRT Extension SDK                                                      10.1.18362.1      
+    Microsoft Visual C++ 2019 X64 Additional Runtime - 14.26.28619                   14.26.28619       
+    Win10Pcap                                                                        10.2.5002         
+    Microsoft Visual C++ 2013 x64 Additional Runtime - 12.0.40664                    12.0.40664        
+    vs_Graphics_Singletonx64                                                         16.4.29411        
+    WinRT Intellisense UAP - en-us                                                   10.1.18362.1      
+    VS JIT Debugger                                                                  16.0.98.0         
+    Microsoft Visual C++ 2019 X64 Minimum Runtime - 14.26.28619                      14.26.28619       
+    WinRT Intellisense IoT - en-us                                                   10.1.18362.1      
+    Microsoft Visual C++ 2012 x86 Additional Runtime - 11.0.61135                    11.0.61135        
+    Microsoft Visual C++ 2005 Redistributable                                        8.0.61187         
+    Microsoft Visual C++ 2012 x64 Minimum Runtime - 11.0.61135                       11.0.61135        
+    Windows SDK Desktop Headers arm                                                  10.1.18362.1      
+    木头超级字典工具集                                                               8.2.0.0           
+    DiagnosticsHub_CollectionService                                                 16.1.28901        
+    Microsoft Visual C++ 2019 X86 Additional Runtime - 14.26.28619                   14.26.28619       
+    Windows App Certification Kit SupportedApiList x86                               10.1.18362.1      
+    vs_communitymsires                                                               16.0.28329        
+    Microsoft Visual C++ 2013 x86 Additional Runtime - 12.0.40664                    12.0.40664        
+    Microsoft Visual C++ 2008 Redistributable - x86 9.0.30729.17                     9.0.30729         
+    Windows IoT Extension SDK                                                        10.1.18362.1      
+    Windows Desktop Extension SDK                                                    10.1.18362.1      
+    Windows Desktop Extension SDK Contracts                                          10.1.18362.1      
+    Windows SDK Modern Versioned Developer Tools                                     10.1.18362.1      
+    vs_minshellmsires                                                                16.0.28329        
+    Windows Team Extension SDK                                                       10.1.18362.1      
+    CAJViewer                                                                        7.3.1             
+    VS Script Debugging Common                                                       16.0.98.0         
+    Windows SDK for Windows Store Apps DirectX x86 Remote                            10.1.18362.1      
+    Microsoft Visual C++ 2012 x86 Minimum Runtime - 11.0.61135                       11.0.61135        
+    MagicEXIF Metadata Editor                                                        1.03.0813         
+    Windows SDK Desktop Libs arm64                                                   10.1.18362.1      
+    Windows SDK Desktop Headers x64                                                  10.1.18362.1      
+    Windows SDK Modern Non-Versioned Developer Tools                                 10.1.18362.1      
+    Dolby Audio X2 Windows API SDK                                                   0.8.2.76          
+    Windows App Certification Kit Native Components                                  10.1.18362.1      
+    Dolby Audio X2 Windows APP                                                       0.8.0.71          
+    Windows SDK Desktop Headers arm64                                                10.1.18362.1      
+    Windows SDK Desktop Headers x86                                                  10.1.18362.1      
+    Microsoft Visual C++ 2008 Redistributable - x64 9.0.30729.17                     9.0.30729         
+    icecap_collection_x64                                                            16.4.29430        
+    icecap_collectionresources                                                       16.4.29430        
+    Windows SDK Desktop Libs arm                                                     10.1.18362.1      
+    Oracle VM VirtualBox 6.0.6                                                       6.0.6             
+    icecap_collectionresourcesx64                                                    16.4.29411        
+    WinRT Intellisense Mobile - en-us                                                10.1.18362.1      
+    Windows SDK for Windows Store Apps Headers                                       10.1.18362.1      
+    Java(TM) SE Development Kit 13.0.1 (64-bit)                                      13.0.1.0          
+    Universal CRT Redistributable                                                    10.1.18362.1      
+    WinAppDeploy                                                                     10.1.18362.1      
+    Microsoft System CLR Types for SQL Server 2019 CTP2.2                            15.0.1200.24      
+    Windows Team Extension SDK Contracts                                             10.1.18362.1      
+    WinRT Intellisense Desktop - Other Languages                                     10.1.18362.1      
